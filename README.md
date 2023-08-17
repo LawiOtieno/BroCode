@@ -2,46 +2,43 @@
 
 Coding BootCamps hate him! See how he can teach you to code with this one weird trick.
 
-## Python Full Course
-The Python course offered by BroCode is an engaging and comprehensive program designed to introduce learners to the world of programming using the Python programming language. Whether you're a complete beginner or have some coding experience, this course will equip you with the skills and knowledge needed to write Python code effectively and efficiently.
+## 🚨 🚨 🚨 Programming Languages 🚨 🚨 🚨
 
-#### Course Highlights:
-1. <u>Beginner-Friendly Approach</U>: This course is structured to cater to learners with no prior coding experience. Concepts are explained in a clear and concise manner, making it easy to follow along.
-2. <u>Hands-On Learning</U>: Theory is important, but practice is essential. Throughout the course, you'll work on numerous hands-on coding exercises and projects, allowing you to apply what you've learned and build a strong foundation in Python.
-3. <u>Comprehensive Curriculum</U>: The curriculum covers a wide range of Python topics, from basic syntax and data types to more advanced concepts like object-oriented programming, file handling, and data manipulation.
-4. <u>Real-World Examples</U>: Each concept is illustrated with real-world examples, demonstrating how Python can be used to solve practical problems and perform tasks relevant to various industries.
-5. <u>Interactive Quizzes</U>: Regular quizzes help reinforce your understanding of key concepts and track your progress throughout the course.
-6. <u>Project-Based Learning</U>: As you advance, you'll tackle larger projects that challenge you to apply multiple skills at once. By the end of the course, you'll have a portfolio of projects that showcase your newfound Python prowess.
-7. <u>Supportive Community</U>: BroCode fosters a learning community where you can interact with fellow learners, ask questions, and seek guidance from both instructors and peers.
-8. <u>Lifetime Access</U>: Once you enroll in the course, you'll have lifetime access to the course materials, including updates and additions.
+1. [Python-Full-course](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course)
 
-## Projects 🚨 🚨 🚨
+2. [](https://github.com/LawiOtieno/BroCode/blob/main/)
 
-1. [1-variables](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/1-variables.py)
-2. [2-multiple_assignment](https://github.com/LawiOtieno/Python_Tricks-Real_Python/blob/main/2-multiple_assignment.py)
-3. [3-string_methods](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/3-string_methods.py)
-4. [4-type_cast](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/4-type_cast.py)
-5. [5-user_input](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/5-user_input.py)
-6. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-7. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-8. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-9. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-10. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-11. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-12. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-13. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-14. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-15. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-16. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-17. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-18. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-19. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-20. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-21. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-22. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-23. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-24. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
-25. [](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/)
+3. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+
+4. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+
+5. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+
+6. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+
+7. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+
+8. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+
+9. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+
+10. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+
+<!-- 11. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+12. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+13. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+14. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+15. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+16. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+17. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+18. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+19. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+20. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+21. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+22. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+23. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+24. [](https://github.com/LawiOtieno/BroCode/blob/main/)
+25. [](https://github.com/LawiOtieno/BroCode/blob/main/) -->
 
 ## Author(s) Info
 
