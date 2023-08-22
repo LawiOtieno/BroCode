@@ -2,15 +2,14 @@
 
 # Second line 👆🏼 should be blank
 # An empty line should be added at the end
-
 # Variable 👉🏼 A container for a value.
 
 #1 String data type (str)
 print("###str###")
-name = "Lawrence is a lazy coder."
+name = "Lawrence"
 print(name) #print variable
 print(type(name)) #Print data type
-print("Hello, " + name) #CONCATENATE - string variable with another string (String literal)
+print("Hello, " + name + "  is a lazy coder.") #CONCATENATE - string variable with another string (String literal)
 print("") # Blank line
 
 #2 Integer data type (int)
