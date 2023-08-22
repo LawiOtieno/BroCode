@@ -17,6 +17,8 @@ The Python course offered by BroCode is an engaging and comprehensive program de
 
 ## Projects 🚨 🚨 🚨
 
+00. [Python Full Course Text](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/0-a_Python Full Course.txt)
+0. [0-beginners](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/0-beginners.py)
 1. [1-variables](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/1-variables.py)
 2. [2-multiple_assignment](https://github.com/LawiOtieno/Python_Tricks-Real_Python/blob/main/2-multiple_assignment.py)
 3. [3-string_methods](https://github.com/LawiOtieno/BroCode/blob/main/Python-Full-course/3-string_methods.py)
