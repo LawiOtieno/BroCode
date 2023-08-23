@@ -2,6 +2,7 @@
 
 # Second line 👆🏼 should be blank
 #An empty line should be added at the end
+
 # Multiple Assignments 👉🏼 Allow us to assign multiple variables at same time in one line of code.
 
 # Single Assignment
