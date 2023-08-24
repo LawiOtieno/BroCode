@@ -12,7 +12,7 @@ String Indexing/Slicing
 # 1 - Indexing
 full_name = "Lawrence Otieno"
 print(f"Characters length is {len(full_name)}")
-# print(f"Get position of {full_name.index[e]}")
+print(full_name.index("L")) # Get position/index of character
 print() # Blank line, also print("")
 
 first_name = full_name[0:8] # first_name = full_name[:8]
