@@ -2,8 +2,10 @@
 
 # Second line 👆🏼 should be blank
 # An empty line should be added at the end
-
-# Variable 👉🏼 A container for a value.
+'''
+Variable 
+    A container for a value.
+'''
 
 #1 String data type (str)
 print("###str###")
