@@ -23,10 +23,10 @@ print() # Blank line, also print("")
 a = 2
 b = 34
 c = 100
-print(max(a,b,c))
-print(min(a,b,c))
-print(math.gcd(a,b,c))
-print(math.lcm(a,b,c))
+print(max(a,b,c)) # Maximum value
+print(min(a,b,c)) # Minimum value
+print(math.gcd(a,b,c)) # Find greatest common divisor
+print(math.lcm(a,b,c)) # Find least common multiple
 print() # Blank line, also print("")
 
 # Absolute value
