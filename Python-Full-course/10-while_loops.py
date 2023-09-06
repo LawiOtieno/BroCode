@@ -4,7 +4,8 @@
 # An empty line should be added at the end
 """
 While Loop
-    It executes a block of code as long as it's condition is true
+    It executes a block of  unlimited number of times, 
+    as long as it's condition is true
 """
 name = ""
 while len(name) == 0:
