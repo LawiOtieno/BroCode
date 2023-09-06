@@ -4,7 +4,7 @@
 # An empty line should be added at the end
 """
 While Loop
-    It executes a block of  unlimited number of times, 
+    It executes a block of code unlimited number of times, 
     as long as it's condition is true
 """
 name = ""
