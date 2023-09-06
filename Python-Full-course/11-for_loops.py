@@ -4,7 +4,7 @@
 #An empty line should be added at the end
 """
 For Loop
-    It executes a block of  code limited number of times, 
+    It executes a block of code limited number of times, 
     as long as a certain condition is met
 """
 # Print numbers in a range
