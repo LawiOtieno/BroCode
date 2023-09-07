@@ -17,7 +17,7 @@ area = length*width # Area
 
 for i in range(length):
     for j in range(width):
-        print(symbol, end="")
+        print(symbol, end="") # end="" removes blank newline
     print("") # Blank line
     
 print("") # Blank line
