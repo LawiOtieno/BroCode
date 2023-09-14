@@ -1,5 +1,6 @@
 <html>
     <h1>Hello world!</h1>
+    <h2>Trial code</h2>
 </html>
 
 <?php
